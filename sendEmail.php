@@ -5,7 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $url = 'http://localhost/maket/good.html';
 
 
-  $to = 'terletskiy.2002@mail.ru'; // Ваш адрес почты
+  $to = '@mail.ru'; // Ваш адрес почты
   $subject = 'Новое сообщение с веб-формы';
   $headers = "From: $name <$email>\r\n";
   $headers .= "Reply-To: $email\r\n";
