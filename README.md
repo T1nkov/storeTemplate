@@ -49,12 +49,12 @@ The Targeted Ad Sales Template is released under the MIT License. You are free t
 
 **Credits**
 
-- Template design and development: [Your Name or Company]
+- Template design and development: by T1nkov
 - Third-party resources and libraries, if any, with appropriate attributions
 
 **Support**
 
-For any questions, issues, or support related to the Targeted Ad Sales Template, please contact [Your Email Address].
+For any questions, issues, or support related to the Targeted Ad Sales Template, please contact tg: @t1nkov.
 
 **Conclusion**
 
